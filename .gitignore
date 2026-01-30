@@ -216,8 +216,11 @@ __pycache__/
 
 # Outputs
 *.ics
+
+# Logs only
 *.log
-*.txt
+scraper.txt
+
 
 # Debug artifacts
 debug_response.html
